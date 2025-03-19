@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishnal Panara</h1>
-<h3 align="center">A passionate FrontEnd Engineer in making from India...</h3>
+<h3 align="center">A passionate Fullstacks Engineer from India...</h3>
 
 <p align="left"> <a href="https://twitter.com/krishnalpanara" target="blank"><img src="https://img.shields.io/twitter/follow/krishnalpanara?logo=twitter&style=for-the-badge" alt="krishnalpanara" /></a> </p>
 
